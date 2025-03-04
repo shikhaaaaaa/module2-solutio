@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.layout-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.menu-container {
+  margin: 0 auto;
+}
+
+.menu-item {
+  background: #999999;
+  border: 2px solid #000;
+  margin-right: 40px;
+  padding-right: 0;
+  padding: 15px;
+}
+
+.menu-title {
+  width: 100%;
+  float: right;
+  padding: 10px;
+  border: 1px solid #000;
+  text-align: right;
+  font-weight: bold;
+}
+
+.chicken {
+  background-color: #D59898;
+}
+
+.beef {
+  background-color: #C14543;
+}
+
+.sushi {
+  background-color: #E5D198;
+}
+
+.menu-text {
+  margin-top: 10px;
+}
